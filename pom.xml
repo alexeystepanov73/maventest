@@ -17,8 +17,8 @@
     
     <scm>
         <url>https://github.com/alexeystepanov73/maventest</url>
-        <connection>scm:git:git://github.com/alexeystepanov73/maventest.git</connection>
-        <developerConnection>scm:git:git@github.com:alexeystepanov73/maventest.git</developerConnection>
+        <connection>scm:git:https://github.com/alexeystepanov73/maventest.git</connection>
+        <developerConnection>scm:git:https://github.com/alexeystepanov73/maventest.git</developerConnection>
     </scm>  
 
     <modules>

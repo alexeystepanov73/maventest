@@ -6,7 +6,7 @@
   <groupId>com.example.maven-samples</groupId>
   <artifactId>multi-module-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-RELEASE</version>
+  <version>1.0.1</version>
   <name>Multi Module Project Parent</name>
   <description>Sample multi module Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -209,7 +209,7 @@
   <scm>
     <connection>scm:git:git@github.com:gabrielf/maven-samples.git</connection>
     <developerConnection>scm:git:git@github.com:gabrielf/maven-samples.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>parent-1.0.1</tag>
     <url>http://github.com/gabrielf/maven-samples</url>
   </scm>
 

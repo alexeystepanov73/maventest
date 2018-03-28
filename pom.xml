@@ -6,7 +6,7 @@
     <groupId>com.example.maven-samples</groupId>
     <artifactId>parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>Just a pom that makes it easy to build both projects at the same time.</description>
   
@@ -19,7 +19,7 @@
         <url>https://github.com/alexeystepanov73/maventest</url>
         <connection>scm:git:https://github.com/alexeystepanov73/maventest.git</connection>
         <developerConnection>scm:git:https://github.com/alexeystepanov73/maventest.git</developerConnection>
-      <tag>parent-1.0.1</tag>
+      <tag>HEAD</tag>
   </scm>  
 
     <modules>
